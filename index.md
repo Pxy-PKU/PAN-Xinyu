@@ -22,7 +22,7 @@ Address: Room 1222, Wangkezhen Building, Peking University, Beijing, 100871 CHIN
 ---
 
 <div>
-<div style="float:left">M.S. in <b>Social and Cultural Psychology</b>, PEKING UNIVERSITY</div>
+<div align=left>M.S. in <b>Social and Cultural Psychology</b>, PEKING UNIVERSITY</div>
 <div align=right>From September 2018</div>
 </div><br>
 
