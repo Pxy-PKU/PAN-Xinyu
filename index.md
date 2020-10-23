@@ -32,7 +32,7 @@ Address: Room 1222, Wangkezhen Building, Peking University, Beijing, 100871 CHIN
 </div><br>
 
 <div>
-<div style="float:left">B.A. in <b>Psychology</b> (Minor Degree), EAST CHANA NORMAL UNIVERSITY</div>
+<div style="float:left">B.A. in <b>Psychology</b> (Minor Degree), EAST CHINA NORMAL UNIVERSITY</div>
 <div style="float:right">September 2016 - July2018</div>
 </div><br>
 
