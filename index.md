@@ -1,7 +1,7 @@
 <h1>
 <div>
 <div><b>PAN Xinyu</b></div>
-<div><img src="touxiang.jpg" align='right' width="300"></div>
+<div><img src="touxiang.jpg" align='right' width="250"></div>
 </div>
 </h1>
 
